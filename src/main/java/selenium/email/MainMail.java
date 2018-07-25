@@ -1,4 +1,4 @@
-package by.htp.kostuk.selenium.email;
+package selenium.email;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
